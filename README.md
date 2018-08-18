@@ -2,7 +2,7 @@
 
 > a vue-xox game
 
-> DEMO: https://omerfarukucuk.github.io/xox-game-vuejs/
+> DEMO: http://omerfarukucuk.com/xox/
 
 ## Build Setup
 
